@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "download_url": "https://your-server.com/appforge/appforge-v1.0.1.apk",
+  "changelog": "- إصلاح مشكلة فحص الملفات الكبيرة\n- إضافة دعم أنماط مفاتيح جديدة\n- تحسين واجهة الإعدادات",
+  "force_update": false
+}
